@@ -1,6 +1,6 @@
 ## Tickitz-Frontend
 
-This is a frontend part for [api project](https://github.com/stringifyy/Tickitz-BE).
+This is a frontend part for [api project](https://github.com/ryanagungsamudra/Tickitz-BE).
 
 ## Getting started
 
